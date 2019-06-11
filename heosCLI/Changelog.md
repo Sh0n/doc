@@ -1,3 +1,8 @@
+# 11/06/2019
+
+- Ajout de la récupération auto du PID du player à l'adresse IP renseignée
+- Définition des valeur du widget par défaut à l'enregistrement de l'équipement (titre, album, artiste, image)
+
 # 10/06/2019
 
 - Alignement des textes à gauche (titre, album, artiste)
