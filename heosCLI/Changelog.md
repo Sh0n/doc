@@ -1,3 +1,8 @@
+# WIP
+
+- Correction pour éviter le lancement en double de la connexion telnet lors du lancement du daemon
+- Ajout de la possibilité de renseigner son compte HEOS (login + mot de passe, nécessaire pour l'utilisation de certaines fonctions comme les Favoris HEOS)
+
 # 12/06/2019
 
 - Correction du widget pour prise en compte de la couleur de fond en fonction de la catégorie choisie pour l'équipement
