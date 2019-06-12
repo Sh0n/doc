@@ -1,3 +1,8 @@
+# 12/06/2019
+
+- Correction du widget pour prise en compte de la couleur de fond en fonction de la catégorie choisie pour l'équipement
+- Refresh auto du widget à l'enregistrement de l'équipement
+
 # 11/06/2019
 
 - Ajout de la récupération auto du PID du player à l'adresse IP renseignée
