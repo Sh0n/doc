@@ -1,7 +1,8 @@
-# WIP
+# 15/06/2019
 
 - Correction pour éviter le lancement en double de la connexion telnet lors du lancement du daemon
-- Ajout de la possibilité de renseigner son compte HEOS (login + mot de passe, nécessaire pour l'utilisation de certaines fonctions comme les Favoris HEOS)
+- Ajout de la possibilité de renseigner son compte HEOS dans la configuration de l'équipement (login + mot de passe, nécessaire pour l'utilisation de certaines fonctions comme les Favoris HEOS)
+- Ajout de la possibilité de consulter et de lancer un favoris Heos (icône étoile en haut à droite du widget)
 
 # 12/06/2019
 
