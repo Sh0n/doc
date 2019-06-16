@@ -1,6 +1,8 @@
 # 16/06/2019
 
 - Correction de l'affichage de la modal des favoris lorsque le widget est utilisé dans un design jeedom.
+- Ajout de la récupération du modèle dans la configuration de l'équipement
+- Prise en compte du modèle pour les deux commandes annexes loudness et luminosité
 
 # 15/06/2019
 
