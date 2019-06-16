@@ -1,3 +1,7 @@
+# 16/06/2019
+
+- Correction de l'affichage de la modal des favoris lorsque le widget est utilisé dans un design jeedom.
+
 # 15/06/2019
 
 - Correction pour éviter le lancement en double de la connexion telnet lors du lancement du daemon
