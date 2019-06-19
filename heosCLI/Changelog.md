@@ -1,3 +1,9 @@
+# WIP
+
+- Passage de la modal des favoris sur une modal de même type que celles de jeedom (évite les interférences avec les css du core de jeedom)
+- Ménage dans la solution (suppression des dossiers inutiles)
+- Ajout de la traduction en_US (90%)
+
 # 16/06/2019
 
 - Correction de l'affichage de la modal des favoris lorsque le widget est utilisé dans un design jeedom.
