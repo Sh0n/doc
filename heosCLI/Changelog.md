@@ -1,3 +1,9 @@
+# WIP
+
+- Correction d'un bug lors de l'arrêt de l'appareil qui affichait un titre dans certains cas
+- Correction de la mise à jour de l'état au démarrage d'une lecture qui resté sur stop dans certains cas
+- Gestion des groupes Heos
+
 # 19/06/2019
 
 - Passage de la modale des favoris sur une modale de même type que celles de jeedom (évite les interférences avec le css du core de jeedom)
