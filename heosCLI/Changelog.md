@@ -4,6 +4,10 @@
 - Correction de la mise à jour de l'état au démarrage d'une lecture qui resté sur stop dans certains cas
 - Gestion des groupes Heos
 
+# 28/06/2019
+
+- Ajout d'une commande **Luminosité** permettant de choisir une luminosité via une liste déroulante (0%, 25%, 50%, 75% ou 100%). A utiliser par exemple dans un scénario ou sur un widget perso (non dispo sur le widget du plugin)
+
 # 19/06/2019
 
 - Passage de la modale des favoris sur une modale de même type que celles de jeedom (évite les interférences avec le css du core de jeedom)
