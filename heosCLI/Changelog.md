@@ -1,8 +1,9 @@
-# WIP
+# 28/06/2019 [BETA]
 
+- Correction et amélioration dans la gestion des groupes
 - Correction d'un bug lors de l'arrêt de l'appareil qui affichait un titre dans certains cas
 - Correction de la mise à jour de l'état au démarrage d'une lecture qui resté sur stop dans certains cas
-- Gestion des groupes Heos
+
 
 # 28/06/2019
 
