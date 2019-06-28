@@ -8,6 +8,7 @@
 # 28/06/2019
 
 - Ajout d'une commande **Luminosité** permettant de choisir une luminosité via une liste déroulante (0%, 25%, 50%, 75% ou 100%). A utiliser par exemple dans un scénario ou sur un widget perso (non dispo sur le widget du plugin). Pour les players type AVR, seul trois niveaux de luminosité existent, les niveaux 75% et 100% sont donc identiques.
+- Optimisation de code
 
 # 19/06/2019
 
