@@ -1,3 +1,9 @@
+# 30/06/2019
+
+- Ménage dans la solutiton (suppression des fichiers et des lignes de codes inutiles)
+- Ajout de la documentation
+- Préparation pour traduction
+
 # 09/06/2019
 
 - Publication de la 1er version du plugin
