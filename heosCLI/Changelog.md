@@ -1,4 +1,4 @@
-# 29/06/2019 [BETA only]
+# 29/06/2019
 
 - Correction et amélioration dans la gestion des groupes
 - Correction d'un bug lors de l'arrêt de l'appareil qui affichait un titre dans certains cas
