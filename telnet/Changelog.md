@@ -3,6 +3,7 @@
 - Ménage dans la solutiton (suppression des fichiers et des lignes de codes inutiles)
 - Ajout de la documentation
 - Préparation pour traduction
+- Passage du plugin de la catégorie Programmation à Communication
 
 # 09/06/2019
 
