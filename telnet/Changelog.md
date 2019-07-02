@@ -1,5 +1,9 @@
 # 01/07/2019
 
+- Correction de la validation du champ délai
+
+# 01/07/2019
+
 - Ajout de la prise en charge d'un login/mot de passe et délai
 
 # 30/06/2019
