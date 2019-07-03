@@ -2,7 +2,7 @@
 
 - Ajout d'une commande Power avec comme choix possible On ou Off
 - Passage sur la modale du core jeedom à la place de la modale custom (modale favoris + groupe)
-
+- Optimisations mineures
 
 # 29/06/2019
 
@@ -10,7 +10,6 @@
 - Correction d'un bug lors de l'arrêt de l'appareil qui affichait un titre dans certains cas
 - Correction de la mise à jour de l'état au démarrage d'une lecture qui resté sur stop dans certains cas
 - Augmentation de la taille des icônes d'action secondaire (favoris, groupe, luminosité...)
-
 
 # 28/06/2019
 
