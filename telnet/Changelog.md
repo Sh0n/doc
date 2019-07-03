@@ -1,3 +1,8 @@
+# 03/07/2019
+
+- Correction du délai (x1000 dans le code car en microsecondes)
+- Ajout d'un délai par défaut dès la connexion pour attendre un message d'accueil si présent avant envoi de la commande
+
 # 02/07/2019
 
 - Correction de la validation du champ délai
