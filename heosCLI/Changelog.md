@@ -1,3 +1,9 @@
+# 03/07/2019
+
+- Ajout d'une commande Power avec comme choix possible On ou Off
+- Passage sur la modale du core jeedom à la place de la modale custom (modale favoris + groupe)
+
+
 # 29/06/2019
 
 - Correction et amélioration dans la gestion des groupes
