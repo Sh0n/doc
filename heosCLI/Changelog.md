@@ -1,3 +1,7 @@
+# 05/10/2019
+
+- Ajout de la possibilité de lancer un favoris depuis un scénario (commande Jouer un favoris, voir documentation)
+
 # 03/07/2019
 
 - Ajout d'une commande Power avec comme choix possible On ou Off
