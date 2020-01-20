@@ -1,3 +1,10 @@
+# 20/01/2020 
+
+- Passage du délai en seconde (auparavant en milliseconde)
+- Valeur par défaut du délai à 3 secondes (si champ vide)
+- Modification de la fonction servant à gérer le délai
+- Modification du type de lecture du retour des commandes (stop la lecture si fin de ligne \n \r ou \0) 
+
 # 03/07/2019
 
 - Correction du délai (x1000 dans le code car en microsecondes)
