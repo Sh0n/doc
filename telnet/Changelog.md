@@ -1,3 +1,10 @@
+# 02/05/2020 
+
+- Refonte du plugin avec utilisation de python pour l'envoi de commande Telnet
+- Ajout possibilité de créer des commandes de type info
+- Ajout d'une commande générique "Rafraichir" qui met à jour toutes les commandes de type Info
+- Ajout d'un cron (activé par défaut) pour rafraichir les commandes de type Info toutes les minutes 
+
 # 20/01/2020 
 
 - Passage du délai en seconde (auparavant en milliseconde)
