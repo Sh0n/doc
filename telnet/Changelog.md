@@ -4,6 +4,7 @@
 - Ajout possibilité de créer des commandes de type info
 - Ajout d'une commande générique "Rafraichir" qui met à jour toutes les commandes de type Info
 - Ajout d'un cron (activé par défaut) pour rafraichir les commandes de type Info toutes les minutes 
+- Ajout de la possibilité de définir une phrase/un mot à attendre avant d'envoyer une commande
 
 # 20/01/2020 
 
