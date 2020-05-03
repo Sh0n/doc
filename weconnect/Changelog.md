@@ -1,4 +1,4 @@
-## 01/02/2020 (bêta)
+## 03/05/2020
 
 - Ajout des informations concernant les vitres, coffre et toit ouvrant
 - Ajout des informations concernant le verrouillage des portes
