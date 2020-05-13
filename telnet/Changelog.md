@@ -1,3 +1,7 @@
+# 11/05/2020
+
+- Correction de l'erreur concernant le délai lorsqu'un login/mot de passe est utilisé (merci jcVoid)
+
 # 02/05/2020 
 
 - Refonte du plugin avec utilisation de python pour l'envoi de commande Telnet
