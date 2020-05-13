@@ -1,3 +1,8 @@
+# 13/05/2019
+
+- Ajout de la possibilité de chercher le PID par nom (en plus de l'IP car pour certains modèles, l'IP ne remonte pas forcément depuis l'API HEOS dans le résultat de recherche)
+- Correction mineures
+
 # 05/10/2019
 
 - Ajout de la possibilité de lancer un favoris depuis un scénario (commande *Jouer un favoris*, voir documentation)
