@@ -1,4 +1,11 @@
-# 13/05/2019
+# 16/05/2020
+
+- Refonte de la partie favoris (récupération dynamique du SID de la station dédiée aux favoris)
+- Correction du démon pour ne mettre à jour les infos que du players concerné lorsqu'il y a plusieurs enceinte configurées dans le plugin
+
+### **ATTENTION : La mise à jour concernant les favoris nécessite de rééxectuer la commande "Récupérer le PID" sur chaque équipement (si vous souhaitez utiliser les favoris)**
+
+# 13/05/2020
 
 - Ajout de la possibilité de chercher le PID par nom (en plus de l'IP car pour certains modèles, l'IP ne remonte pas forcément depuis l'API HEOS dans le résultat de recherche)
 - Correction mineures
