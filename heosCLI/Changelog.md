@@ -1,3 +1,11 @@
+# 17/05/2020
+
+- Séparation du cron principal en deux crons : 
+  - un cron pour les infos du player,
+  - un cron dédié uniquement à son état (Etat Power)
+- Correction de l'info Etat Power qui ne se mettait pas à jour (PWON ou PWSTANDBY)
+- Ajout des commandes (Telnet classique) On et Off
+
 # 16/05/2020
 
 - Refonte de la partie favoris (récupération dynamique du SID de la station dédiée aux favoris)
