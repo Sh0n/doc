@@ -1,3 +1,9 @@
+# 30/05/2020
+
+- MAJ du template mobile (mieux vaut tard que jamais !)
+- Correction d'un bug dans l'état (play/pause)
+- Ajout d'un label mute à côté de l'état dans le template (dashboard et mobile)
+
 # 17/05/2020
 
 - Séparation du cron principal en deux crons : 
