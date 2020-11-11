@@ -1,3 +1,8 @@
+# 11/11/2020
+
+- Correction de la gestion des commandes avec espaces
+- Correction de la gestion des commandes info
+
 # 11/05/2020
 
 - Correction de l'erreur concernant le délai lorsqu'un login/mot de passe est utilisé (merci jcVoid)
