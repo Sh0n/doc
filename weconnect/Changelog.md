@@ -1,6 +1,6 @@
 ## 13/11/2020
 
-- Correction d'une erreur javascript dans le template image (provoquait une erreur sur le dashboard surtout visible en V4)
+- Correction d'une erreur javascript dans le template image (provoquait une erreur sur le dashboard surtout visible en V4, désactiver/réactiverle plugin pour une prise en compte de la correction)
 
 ## 04/05/2020
 
