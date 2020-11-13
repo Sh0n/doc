@@ -1,3 +1,7 @@
+## 13/11/2020
+
+- Correction d'une erreur javascript dans le template image (provoquait une erreur sur le dashboard surtout visible en V4)
+
 ## 04/05/2020
 
 - Suppression du daemon automatique au profit des crons. Il est désormais possible de choisir le délai de rafraichissement des données entre 1, 5, 10, 15 et 30 minutes ou 1 heure (à paramétrer dans la configuration du plugin)
