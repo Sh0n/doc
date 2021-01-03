@@ -1,6 +1,7 @@
 # 03/01/2021
 
 - Ajout de la possibilité de changer la source depuis un scénario (via une liste déroulante) 
+- Correction de l'icône Afficheur On/Off dans le widget de la V4
 
 # 30/05/2020
 
