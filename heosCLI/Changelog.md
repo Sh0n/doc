@@ -1,3 +1,7 @@
+# 03/01/2021
+
+- Ajout de la possibilité de changer la source depuis un scénario (via liste déroulante)
+
 # 30/05/2020
 
 - MAJ du template mobile (mieux vaut tard que jamais !)
