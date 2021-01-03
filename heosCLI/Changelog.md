@@ -1,6 +1,6 @@
 # 03/01/2021
 
-- Ajout de la possibilité de changer la source depuis un scénario (via liste déroulante)
+- Ajout de la possibilité de changer la source depuis un scénario (via une liste déroulante) 
 
 # 30/05/2020
 
