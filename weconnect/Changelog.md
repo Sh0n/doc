@@ -1,3 +1,7 @@
+## 20/11/2022
+
+- Rework complet du plugin pour se baser sur la nouvelle librairie weconnect-cli
+
 ## 13/11/2020
 
 - Correction d'une erreur javascript dans le template image (provoquait une erreur sur le dashboard surtout visible en V4, désactiver/réactiverle plugin pour une prise en compte de la correction)
