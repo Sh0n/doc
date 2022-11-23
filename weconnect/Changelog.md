@@ -2,6 +2,7 @@
 
 - Modification du process de génération du fichier NETRC
 - Ajout de complément d'information dans la configuration du plugin
+- Autres corrections mineures
 
 ## 20/11/2022
 
