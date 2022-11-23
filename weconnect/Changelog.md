@@ -1,3 +1,8 @@
+## 23/11/2022
+
+- Modification du process de génération du fichier NETRC
+- Ajout de complément d'information dans la configuration du plugin
+
 ## 20/11/2022
 
 - Rework complet du plugin pour se baser sur la nouvelle librairie weconnect-cli
