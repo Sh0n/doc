@@ -1,6 +1,6 @@
 # Changelog WeConnect
 
-_Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour est disponible, cela signifit qu'aucune modification notable n'a été faite_
+_Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour est disponible, cela signifit qu'aucune modification notable n'a été apportée sur le plugin_
 
 ## 23/11/2022
 
