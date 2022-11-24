@@ -1,3 +1,7 @@
+# Changelog WeConnect
+
+_Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour est disponible, cela signifit qu'aucune modification notable n'a été faite_
+
 ## 23/11/2022
 
 - Modification du process de génération du fichier NETRC
