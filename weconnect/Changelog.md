@@ -2,6 +2,9 @@
 
 _Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour est disponible, cela signifit qu'aucune modification notable n'a été apportée sur le plugin_
 
+## 25/11/2022
+- Ajout configuration pour Passat Variant GTE (merci à ChristopheHD)
+
 ## 24/11/2022
 
 - Correction d'une anomalie qui entrainait la non prise en compte de la couleur de la catégorie sur la barre de titre de la tuile sur le dashboard. La suppression puis recréation des équipements concernés semble obligatoire pour régler définitivement le problème
