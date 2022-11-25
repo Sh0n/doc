@@ -5,8 +5,11 @@ _Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour es
 ## 25/11/2022
 - Ajout configuration pour Passat Variant GTE (merci à ChristopheHD)
 - Ajout configuration pour L'ID.3 (copie configuration de l'ID.4)
-- Ajout de l'état des phares (droite & gauche) pour Golf GTE, ID.3 et ID.4
 - Ajout configuration pour le Transporter (merci pilou226)
+- Ajout configuration pour le Tiguan (merci stefan62231)
+- Ajout configuration pour la Polo (merci pesupiot)
+ 
+- Ajout de l'état des phares (droite & gauche) pour Golf GTE, ID.3 et ID.4
 - Ajout de la captation du modèle de véhicule dans le nom de celui-ci lorsque la commande /model n'est pas disponible (cas du transporter, voir doc)
 
 ## 24/11/2022
