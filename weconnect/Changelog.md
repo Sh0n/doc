@@ -4,6 +4,8 @@ _Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour es
 
 ## 25/11/2022
 - Ajout configuration pour Passat Variant GTE (merci à ChristopheHD)
+- Ajout configuration pour L'ID.3 (copie configuration de l'ID.4)
+- Ajout de l'état des phares (droite & gauche) pour Golf GTE, ID.3 et ID.4
 
 ## 24/11/2022
 
