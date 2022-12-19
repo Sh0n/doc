@@ -4,7 +4,7 @@ _Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour es
 
 ## 19/12/2022
 - Ajout configuration pour la e-Golf (merci pplotton)
-- Ajout d'une nouvelle commande info "Localisation" (latitude,longitude) pour faciliter l'utilisation dans d'autres plugin comme geotrav par exemple
+- Ajout d'une nouvelle commande info "Localisation" (latitude,longitude) pour faciliter l'utilisation dans d'autres plugins comme geotrav par exemple
 
 ## 25/11/2022
 - Ajout configuration pour Passat Variant GTE (merci à ChristopheHD)
