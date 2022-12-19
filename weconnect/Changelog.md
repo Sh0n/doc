@@ -2,6 +2,9 @@
 
 _Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour est disponible, cela signifit qu'aucune modification notable n'a été apportée sur le plugin_
 
+## 19/12/2022
+- Ajout configuration pour la e-Golf (merci pplotton)
+
 ## 25/11/2022
 - Ajout configuration pour Passat Variant GTE (merci à ChristopheHD)
 - Ajout configuration pour L'ID.3 (copie configuration de l'ID.4)
