@@ -2,6 +2,9 @@
 
 _Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour est disponible, cela signifit qu'aucune modification notable n'a été apportée sur le plugin_
 
+## 20/12/2022
+- Ajout configuration pour la e-up! (merci enfrafer)
+
 ## 19/12/2022
 - Ajout configuration pour la e-Golf (merci pplotton)
 - Ajout d'une nouvelle commande info "Localisation" (latitude,longitude) pour faciliter l'utilisation dans d'autres plugins comme geotrav par exemple. Attention, il s'agit d'une simple concaténation des commandes latitude et longitude. Elles doivent donc être activées et actualisées pour que celle-ci fonctionne.
