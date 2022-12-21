@@ -2,6 +2,9 @@
 
 _Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour est disponible, cela signifit qu'aucune modification notable n'a été apportée sur le plugin_
 
+## 21/12/2022
+- Ajout configuration pour la Passat GTE (merci guigeek)
+
 ## 20/12/2022
 - Ajout configuration pour la e-up! (merci enfrafer)
 
