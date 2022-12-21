@@ -4,6 +4,7 @@ _Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour es
 
 ## 21/12/2022
 - Ajout configuration pour la Passat GTE (merci guigeek)
+- Correction de l'autonomie max par défaut pour la e-Golf (modifiable si besoin dans les options de la commande)
 
 ## 20/12/2022
 - Ajout configuration pour la e-up! (merci enfrafer)
