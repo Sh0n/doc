@@ -2,6 +2,9 @@
 
 _Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour est disponible, cela signifit qu'aucune modification notable n'a été apportée sur le plugin_
 
+## 06/01/2023
+- Ajout configuration pour l'Arteon (merci Skot2512)
+
 ## 21/12/2022
 - Ajout configuration pour la Passat GTE (merci guigeek)
 - Correction de l'autonomie max par défaut pour la e-Golf (modifiable si besoin dans les options de la commande)
