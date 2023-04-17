@@ -2,6 +2,11 @@
 
 _Si aucune information n'est affichée ici alors qu'une nouvelle mise à jour est disponible, cela signifit qu'aucune modification notable n'a été apportée sur le plugin_
 
+## 17/03/2023
+- MAJ de la lib weconnect-cli en version 0.33.9 qui nécessite python >= 3.8, relance des dépendances obligatoire
+- Forçage de la lib dans le plugin à python 3.8 (cf doc du plugin)
+- Ajout du contrôle de la version de python avant installation des dépendances
+
 ## 06/01/2023
 - Ajout configuration pour l'Arteon (merci Skot2512)
 
